@@ -1,0 +1,2 @@
+-- 1. CREATE DATABASE salesDB;i have use double hyphen to begin the create database query the semi colon at the end indicates the end of the first query 
+-- 2. DROP DATABASE demo;the same applies to the second query, double hyphen to begin the query and semi colon to indicate the end of the query the query has been labelled using the number two
